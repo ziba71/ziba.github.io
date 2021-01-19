@@ -54,6 +54,8 @@ textarea {
   cursor: pointer; }
 
 p {
+  dirction: rtl;
+  text-align: right;
   margin-bottom: 0px;
   width: 100%; }
 
